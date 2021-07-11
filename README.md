@@ -12,5 +12,5 @@ To execute the program, download the dataset and edit the relevant line in the "
 
 
 ## RESULTS
+![results](https://raw.githubusercontent.com/enestokol/FrequentWords/master/resultg.PNG "Results")
 
-(https://raw.githubusercontent.com/enestokol/FrequentWords/master/resultg.PNG "Results")
