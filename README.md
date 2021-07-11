@@ -1,9 +1,9 @@
 # FrequentWords
-
+### Reads a text file that consists of tweets and then print the top 10 most frequent words in the tweets
 
 ## Getting Started
 
-### Reads a text file that consists of tweets and then print the top 10 most frequent words in the tweets
+
 
 To execute the program, download the dataset and edit the relevant line in the "CSVParser.cpp" file.
 
